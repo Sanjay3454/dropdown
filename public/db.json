@@ -1,0 +1,79 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Fruits & Vegetables",
+            "grade":11,
+            "offer":
+            {"list1":["Fresh Vegetables","Herbs & Sesonings","Fresh Fruits","Organic Fruits","Cuts & Sprouts","Exotic Fruits & Veggies","Flower Bouquets,Bunches"],"list2":["Potato,Oninon,Tomato","Cucumber & Capsicum","Leafy Vegetables","Root Vegetables","Beans,Brinjals & Okra","Cabbage & Cauliflower","Gourd , pumpkin,Drumsick","Speciality"]}
+        },
+        {
+            "id":2,
+            "name":"FoodGrains,Oil & Masala",
+            "grade":11
+         
+        },
+        {
+            "id":3,
+            "name":"Bakery,Cakes & Dairy",
+            "grade":12
+            
+        },
+        {
+            "id":4,
+            "name":"Deverages",
+            "grade":11
+         
+        },
+        {
+            "id":5,
+            "name":"Snacks & Branded Foods",
+            "grade":11
+         
+        },
+        {
+            "id":6,
+            "name":"Beauty & Hygiene",
+            "grade":11
+         
+        },
+        {
+            "id":7,
+            "name":"Cleaning & Household",
+            "grade":11
+         
+        },
+        {
+            "id":8,
+            "name":"Kitchen, Garden & Pets",
+            "grade":11
+         
+        },
+        {
+            "id":9,
+            "name":"Eggs,Meat & Fish",
+            "grade":11
+         
+        },
+        {
+            "id":10,
+            "name":"Gourmet & World Food",
+            "grade":11
+         
+        },
+        {
+            "id":11,
+            "name":"Baby Care",
+            "grade":11
+         
+        },
+        {
+            "id":12,
+            "name":"View All",
+            "grade":11
+         
+        }
+        
+       
+    ]
+}
